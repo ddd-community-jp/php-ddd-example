@@ -12,7 +12,7 @@ initialize
 `make init`
 
 show laravel default  
-`open http://localhost/`
+`open http://localhost:8001`
 
 ## example
 stop container  

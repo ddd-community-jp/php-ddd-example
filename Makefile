@@ -14,3 +14,5 @@ mysql:
 	docker-compose exec db bash
 init:
 	docker-compose exec php laravel new
+restart:
+	docker-compose restart
