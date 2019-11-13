@@ -5,18 +5,21 @@
 
 
 ## setting
-run container
+run container  
 `make up`
 
-initialize
+initialize  
 `make init`
 
-show laravel default
+show laravel default  
 `open http://localhost/`
 
 ## example
-stop container
+stop container  
 `make stop`
 
-restart container
+restart container  
 `make restart`
+
+restart container  
+`make down`
