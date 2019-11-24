@@ -16,3 +16,5 @@ init:
 	docker-compose exec php laravel new
 restart:
 	docker-compose restart
+test:
+	docker-compose exec php vendor/bin/phpunit tests/Unit/
