@@ -1,8 +1,4 @@
 /.idea
 /.vscode
 /.ssh
-/docker/ash/.ash_history
-/docker/php/psysh
-!/docker/php/psysh/config.php
-/logs/*
-/tabelog/*
+/docker/db/data/
